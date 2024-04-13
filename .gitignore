@@ -1,0 +1,4 @@
+.env
+env
+venv
+food_delivering/__pycache__/
